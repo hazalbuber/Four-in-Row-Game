@@ -1,4 +1,3 @@
-//210201041 Elif Hazal Büber
 //I added the necessary libraries here
 import javax.swing.*;
 import java.awt.*;
